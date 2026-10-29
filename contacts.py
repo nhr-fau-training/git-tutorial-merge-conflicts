@@ -2,6 +2,7 @@
 
 contacts = [
     { "name" : "Alice", "mail" : "alice@example.org" },
+    { "name" : "Jude", "mail" : "heyjude@thebeatles.co.uk" },
     { "name" : "Bob", "mail" : "bob@fau.de" },
 ]
 
